@@ -35,6 +35,11 @@
     <background>background\colinas_de_hierba</background>
     <background>background\background3</background>
     <background>background\background4</background>
+    <background>background\se_ales</background>
+    <background>background\Decorados</background>
+    <background>background\background7</background>
+    <background>background\background8</background>
+    <background>background\background9</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
@@ -55,14 +60,15 @@
       <object>objects\obj_interactivo</object>
       <object>objects\obj_inter_1</object>
       <object>objects\obj_arbol</object>
+      <object>objects\Transpote_de_escenario</object>
     </objects>
     <objects name="Enemigos">
       <object>objects\enemigo_1</object>
     </objects>
   </objects>
   <rooms name="rooms">
+    <room>rooms\Escenario_de_prueba</room>
     <room>rooms\Room_test_tilesets</room>
-    <room>rooms\room_test</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
